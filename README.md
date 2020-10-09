@@ -10,7 +10,7 @@ FABIT, an interactive brute force tool that can simultaneously attack multiple a
 
 ### Installation
 ```sh
-$ git clone https://github.com/Ethical-H4CK3R/hyprPulse
+$ git clone https://github.com/MrHarshArora/FABIT
 $ cd FABIT
 $ chmod +x install.sh
 $ ./install.sh
