@@ -1,4 +1,3 @@
-__Instagram part of the code isn't working anymore; I wrote a new program just for Instagram, it's called [InstaBurst](https://github.com/MrHarshArora/InstaBurst).__
 
 # FABIT
 
