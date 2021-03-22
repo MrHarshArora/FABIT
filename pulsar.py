@@ -1,5 +1,5 @@
 # Date: 12/15/2017
-# Author: Ethical-H4CK3R
+# Author:CyberGhost
 # Description: Interactive Bruter
 
 from lib.tor import tor_exists
